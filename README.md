@@ -15,5 +15,5 @@ ActionBar
 </p>
 BossBar
 <p align="center">
-  <img src="https://i.imgur.com/3O4BxRR.png">
+  <img src="https://i.imgur.com/6tqELcU.png">
 </p>
