@@ -1,0 +1,10 @@
+name: t-GuildTerrainBar
+main: pl.ticzuu.guildterrainbar.GuildTerrainBarPlugin
+version: 1.0
+description: Plugin na pasek pokazujacy pobyt na terenie gildi
+author: ticzuu
+depend:
+  - FunnyGuilds
+commands:
+  tgtb:
+    description: Komenda od przeładowywania configu t-GuildTerrainBar
