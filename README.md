@@ -1,6 +1,6 @@
 # t-GuildTerrainBar
 
-Plugin na pokazywanie paska actionbara lub bossbara z informacjami o pobycie na terenie gildi
+Plugin pod FunnyGuilds na pokazywanie paska actionbara lub bossbara z informacjami o pobycie na terenie gildi
 <br>
 Konfiguracja: <a href="https://pastebin.com/J6VJyd5n">KLIK</a>
 
