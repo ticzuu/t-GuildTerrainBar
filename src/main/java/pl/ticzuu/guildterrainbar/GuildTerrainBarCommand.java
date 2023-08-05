@@ -1,5 +1,6 @@
 package pl.ticzuu.guildterrainbar;
 
+import net.dzikoysk.funnyguilds.shared.bukkit.ChatUtils;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
@@ -23,7 +24,7 @@ public class GuildTerrainBarCommand implements CommandExecutor {
             return false;
         }
         config.load();
-        player.sendMessage(ChatHelper.colored("&7Przeładowano config &et-GuildTerrainBar"));
+        player.sendMessage(ChatUtils.colored("&7Przeładowano config &et-GuildTerrainBar"));
         return true;
     }
 }

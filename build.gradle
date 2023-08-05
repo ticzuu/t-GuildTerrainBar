@@ -8,14 +8,14 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-    maven { url("https://repo.panda-lang.org/releases") }
+    maven { url("https://maven.reposilite.com/releases") }
     maven { url("https://hub.spigotmc.org/nexus/content/repositories/snapshots/") }
     maven { url("https://storehouse.okaeri.eu/repository/maven-public/") }
 }
 
 dependencies {
     compileOnly "org.spigotmc:spigot:1.16.5-R0.1-SNAPSHOT"
-    compileOnly "net.dzikoysk.funnyguilds:plugin:4.10.2"
+    compileOnly "net.dzikoysk.funnyguilds:plugin:4.12.0"
     implementation "eu.okaeri:okaeri-configs-yaml-bukkit:4.0.6"
 }
 

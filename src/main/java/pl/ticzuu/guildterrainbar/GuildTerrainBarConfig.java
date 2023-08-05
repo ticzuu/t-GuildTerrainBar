@@ -21,7 +21,6 @@ import java.util.Map;
         "#                    #",
         "######################",
 })
-@Names(strategy = NameStrategy.HYPHEN_CASE, modifier = NameModifier.TO_UPPER_CASE)
 public class GuildTerrainBarConfig extends OkaeriConfig {
 
     @Comment({

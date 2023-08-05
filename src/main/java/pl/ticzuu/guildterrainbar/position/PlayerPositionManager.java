@@ -16,8 +16,8 @@ public class PlayerPositionManager {
         this.positions = new HashMap<>();
     }
 
-    public Optional<Guild> find(UUID uniqueId) {
-        return Optional.ofNullable(this.positions.get(uniqueId));
+    public Guild find(UUID uniqueId) {
+        return this.positions.get(uniqueId);
     }
 
     public void add(UUID uniqueId, Guild guild) {
