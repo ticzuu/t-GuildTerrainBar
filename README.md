@@ -10,7 +10,7 @@ Konfiguracja: <a href="https://pastebin.com/J6VJyd5n">KLIK</a>
 1.16.5+
 
 ### Pobieranie
-Najnowsza wersja: <a href="[https://github.com/ticzuu/GuildTerrainBar/releases/tag/release](https://github.com/ticzuu/t-GuildTerrainBar/releases/download/release/t-GuildTerrainBar.jar)">KLIK</a>
+Najnowsza wersja: <a href="https://github.com/ticzuu/t-GuildTerrainBar/releases/download/release/t-GuildTerrainBar.jar">KLIK</a>
 
 ### Przykłady
 ActionBar
