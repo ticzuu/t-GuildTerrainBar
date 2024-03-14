@@ -21,6 +21,9 @@ public class BossBarManager {
     }
 
     public void remove(Player player) {
+        if (player == null) {
+            return;
+        }
         BossBar bossBar = this.bossBars.remove(player.getUniqueId());
         if (bossBar == null) {
             return;
